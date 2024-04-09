@@ -1,0 +1,14 @@
+Difference between If-Else and Switch:-
+-Both If-else and Switch both are conditional statements in programming.
+-In JavaScript, if/else statements and switch statements are used to control the flow of a program based on a specific condition.
+-The main difference between the two is that an if/else statement evaluates a condition and executes a block of code if the condition is true,
+ while a switch statement evaluates an expression and executes the code associated with the matching case statement.
+
+
+
+*One advantage of using a switch statement is that it can be more efficient than multiple if/else statements when testing a single expression against multiple possible values.
+ Additionally, a switch statement can make the code more readable and easier to follow, especially when there are many possible conditions to check.
+
+*However, if/else statements offer more flexibility than switch statements, as they can evaluate complex expressions and conditions that cannot be easily represented in a switch statement.
+ if/else statements also allow for more fine-grained control over the flow of the program, as multiple conditions can be checked in a specific order.
+
